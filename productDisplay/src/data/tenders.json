@@ -1,0 +1,12 @@
+[
+    {
+      "id": 1,
+      "name": "Road Construction",
+      "description": "Tender for road construction project.",
+      "startTime": "2025-03-01T08:00:00Z",
+      "endTime": "2025-03-05T17:00:00Z",
+      "bufferTime": 10,
+      "bids": []
+    }
+  ]
+  
